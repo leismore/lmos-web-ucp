@@ -10,14 +10,26 @@ body {
     color: white;
 }
 
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
 header h1 {
     font-size: xx-large;
-    margin-bottom: 1em;
+}
+
+main {
+    text-align: center;
 }
 
 main p {
     font-size: xx-large;
-    margin-bottom: 2em;
+}
+
+footer {
+    text-align: center;
+    margin-top: 4rem;
 }
 
 footer p {
@@ -30,12 +42,10 @@ footer p {
   font-style: normal;
 }
 
-
-.noto-sans-legal {
-  font-family: "Noto Sans", sans-serif;
+.noto-serif-legal {
+  font-family: "Noto Serif", serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  font-variation-settings: "wdth" 100;
 }

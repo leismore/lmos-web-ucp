@@ -24,6 +24,11 @@ Upload the `public` folder to a web server.
 
 * [Kyle Chine / Kai Qin / 秦凯](https://kyle.chine.leismore.org) since 28 March 2026
 
+## Fonts
+
+* [Anta by Sergej Lebedev](https://fonts.google.com/specimen/Anta?preview.script=Latn) / License: [SIL OPEN FONT LICENSE Version 1.1](https://fonts.google.com/specimen/Anta/license?preview.script=Latn)
+* [Noto Serif](https://fonts.google.com/noto/specimen/Noto+Serif) / License: [SIL OPEN FONT LICENSE Version 1.1](https://fonts.google.com/noto/specimen/Noto+Serif/license)
+
 
 
 
